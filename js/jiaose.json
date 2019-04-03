@@ -1,0 +1,65 @@
+{
+	"success": "成功",
+	"data": {
+		"list":[{
+			"class":"all",
+			"type":"R",
+			"coverImg":"img/character_nieli.jpg",
+			"describe":"<div class='wordd'><p><span>男</span>主角，光辉之城没落世家的子弟，为人勇敢，机智，专情，有责任心，心思缜密，而且运气绝佳。他的妖灵是虎牙熊猫：一只异变的神级成长熊猫妖灵。</p><p>前世历经浩劫，失去了至亲至爱。与圣帝的最终决战中惨遭暗算，力战而亡。弥留之时凭借时空妖灵之书，灵魂重生，回到了今生。</p><p>今生的他重回光辉之城，聚集伙伴，创造了一个又一个奇迹，重新向着巅峰强者迈进。</p></p></div>",
+			"bgImg":"img/character_nieli_ico_bg.png",
+			"onImg":"img/character_nieli_ico.png",
+			"name":"聂离"
+			},{
+				"class":"all",
+				"type":"SR",
+				"coverImg":"img/character_nieyu.jpg",
+				"describe":"<div class='wordd'><p><span>聂</span>离的亲妹妹，六七岁的小女孩，和聂离感情非常好。聂雨由于具有万中无一的天痕之体，自小就表现出很强的天赋。前世达到了黄金级妖灵师，一直庇护聂离和天痕世家。今生被聂离赠予了适合天痕之体的修炼法决，修为突飞猛进，后和聂离一起搬到城主府居住，在聂离的指导下达到黑金级巅峰。</p><p>怀中抱着的兔子玩偶福萝卜，是聂雨的秘密武器，可以变成巨大的兔子妖灵。</p></p></div>",
+				"bgImg":"img/character_nieyu_ico_bg.png",
+				"onImg":"img/character_nieyu_ico.png",
+				"name":"聂雨"
+			},{
+				"class":"all",
+				"type":"SR",
+				"coverImg":"img/character_xiaoninger.jpg",
+				"describe":"<div class='wordd'><p><span>翼</span>龙世家嫡女，对人冷若冰霜，被人称为“冰美人”，与发小叶紫芸并称“圣兰学院女神”。</p><p>天资聪慧，性格坚强，有主见。性格忠贞不二，面对家族婚约宁死不从，后被聂离帮助，婚约现已解除。</p><p>擅长运用风雷属性的法术，妖灵是风雷天雀，一只可以释放强大法术的鸟类。</p></p></div>",
+				"bgImg":"img/character_xiaoninger_ico_bg.png",
+				"onImg":"img/character_xiaoninger_ico.png",
+				"name":"肖凝儿"
+			},{
+				"class":"all",
+				"type":"SSR",
+				"coverImg":"img/character_yeziyun.jpg",
+				"describe":"<div class='wordd'><p><span>光</span>辉之城风雪世家嫡女，聂离前世今生挚爱之人。与发小肖凝儿并称“圣兰学院女神”。</p><p>心地善良、天赋绝顶的大家闺秀。对感情的事情不甚了解，总被聂离调戏。被聂离义无反顾的追求着，开始并不为所动，后来慢慢打开心扉，并且逐渐爱上了聂离。光辉之城大战后与聂离订婚。</p><p>擅长运用冰雪属性的法术，妖灵是风雪皇后，一位强大的神级风雪系妖灵。</p></p></div>",
+				"bgImg":"img/character_yeziyun_ico_bg.png",
+				"onImg":"img/character_yeziyun_ico.png",
+				"name":"叶紫芸"
+			},{
+				"class":"all",
+				"type":"SSR",
+				"coverImg":"img/character_duanjian.jpg",
+				"describe":"<div class='wordd'><p><span>聂</span>离从黑狱世界拯救出来的少年，由于家族的种种原因，长期被囚禁并且虐待，对迫害自己与家人的司空世家有着强烈的复仇心理。经聂离激化体内黑龙的血脉并赠予黑龙剑后，段剑拥有了强健的体格和超人的恢复能力。</p><p>段剑为此心存感激，将自己永远视为聂离的仆从。光辉之城大战时以一人之力拖住沈泓。后与妖主一起拜师前往龙虚界域修行。</p></p></div>",
+				"bgImg":"img/character_duanjian_ico_bg.png",
+				"onImg":"img/character_duanjian_ico.png",
+				"name":"断剑"
+			},{
+				"class":"all",
+				"type":"SSR",
+				"coverImg":"img/character_ming.jpg",
+				"describe":"<div class='wordd'><p><span>冥</span>域掌控者之一，长期坐镇冥域，是羽神宗的一员。实力深不可测，妖主都要忌惮几分。</p><p>平素温和而又有威严，即使面对敌人也会尽力给他们悔过的机会，但若遇到冥顽不灵、无可救药的家伙则会毫不留情。</p><p>认定聂离很有天赋，竭尽全力的的对他进行教导。</p></p></div>",
+				"bgImg":"img/character_ming_ico_bg.png",
+				"onImg":"img/character_ming_ico.png",
+				"name":"冥"
+			},{
+				"class":"all",
+				"type":"more",
+				"more":"more",
+				"describe":"<div class='wordd'></div>",
+				"bgImg":"img/character_none.png",
+				"onImg":"img/character_none.png",
+				"name":"更多角色"
+			}
+			
+		]
+	}
+
+}

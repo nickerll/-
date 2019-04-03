@@ -1,0 +1,35 @@
+.tab ul{
+	width: 315px;height: 42px;
+}
+.container{position: relative;}
+.conlis ul{
+	width: 1152px;height: 732px;
+	margin: 0 auto;
+	background: none;
+}
+.conlis ul li{
+	width: 360px;height: 244px;
+	float: left;
+	border: 0;
+	padding: 0;
+	margin: 0 12px;
+	cursor: pointer;
+}
+.conlis ul li img{
+	width: 360px;height: 200px;
+}
+.conlis ul li a{
+	width: 360px;height: 30px;
+	background: none;
+	font-size: 14px;
+	line-height: 30px;
+	padding-left: 22px;
+	box-sizing: border-box;
+	background: url(../img/page_spr.png) 0 -435px no-repeat;
+	overflow: hidden;
+}
+.conlis ul li a:hover{text-decoration: underline;}
+.page{
+	position: absolute;
+	bottom: 40px;
+}
